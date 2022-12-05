@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <details open>
-  <summary><b>LeeDebug's github stats</b></summary>
+  <summary><b>oscal's github stats</b></summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocasl&count_private=true)](https://github.com/ocasl/github-readme-stats)
   
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <summary><b>淳淳同学的个人微信</b></summary>
 
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20210527113237.png" alt="淳淳同学的个人微信">
+    <img src="https://img1.imgtp.com/2022/12/05/8gjbWJsS.jpg" alt="oscal的个人微信">
   </div>
 </details>
 

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <details open>
   <summary><b>oscal's github stats</b></summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocasl&count_private=true)](https://github.com/ocasl/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocasl&count_private=true&show_icons=true&theme=radical)](https://github.com/ocasl/github-readme-stats)
   
 </details>
 

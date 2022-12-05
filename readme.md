@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary><b>淳淳同学的个人微信</b></summary>
+  <summary><b>oscal的个人微信</b></summary>
 
   <div align="center">
     <img src="https://img1.imgtp.com/2022/12/05/8gjbWJsS.jpg" alt="oscal的个人微信">
